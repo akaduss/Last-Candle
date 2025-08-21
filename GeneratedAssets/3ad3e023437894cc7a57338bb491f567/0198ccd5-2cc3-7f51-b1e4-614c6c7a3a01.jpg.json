@@ -1,0 +1,20 @@
+{
+    "asset": "3ad3e023437894cc7a57338bb491f567",
+    "fileName": "0198ccd5-2cc3-7f51-b1e4-614c6c7a3a01.jpg",
+    "prompt": "simple progression bar frame, only the UI frame",
+    "negativePrompt": "",
+    "model": "feb545d0-614d-4cfb-a290-32d88fa443cd",
+    "modelName": "Game UI Elements (Flux)",
+    "customSeed": -1,
+    "w3CTraceId": "51adc6fdac5a517982d732f37ea52b1e",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

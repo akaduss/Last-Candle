@@ -1,0 +1,20 @@
+{
+    "asset": "3ad3e023437894cc7a57338bb491f567",
+    "fileName": "0198cce4-6c45-7579-b6c6-7f6f44749f61.jpg",
+    "prompt": "Minimalistic medieval scissors icon, inspired by authentic 14th-century blacksmith tools, simple and elegant design, clean silhouette style, flat icon aesthetic, dark iron texture with subtle highlights, centered on neutral parchment background, vector style, high contrast, suitable for UI or game interface",
+    "negativePrompt": "",
+    "model": "03d5ab0c-51c5-44a0-ba07-822e93561aca",
+    "modelName": "Game Icons",
+    "customSeed": -1,
+    "w3CTraceId": "ebcd4dd9b834a9d924bfa72e52592564",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

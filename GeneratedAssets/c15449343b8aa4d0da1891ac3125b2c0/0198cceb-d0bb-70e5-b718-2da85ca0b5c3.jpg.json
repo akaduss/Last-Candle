@@ -1,0 +1,20 @@
+{
+    "asset": "c15449343b8aa4d0da1891ac3125b2c0",
+    "fileName": "0198cceb-d0bb-70e5-b718-2da85ca0b5c3.jpg",
+    "prompt": "Stylized medieval candle icon being filled with wax, hand-drawn fantasy aesthetic, inspired by illuminated manuscripts and medieval candle imagery, small stream of molten golden-orange wax pouring onto the candle, subtle drips along the sides, slight glow at the tip where wax is added, painterly flat style with high-contrast outlines, parchment-like background texture, matching style of medieval scissors and wax drop icons, suitable for RPG or strategy game UI",
+    "negativePrompt": "",
+    "model": "03d5ab0c-51c5-44a0-ba07-822e93561aca",
+    "modelName": "Game Icons",
+    "customSeed": -1,
+    "w3CTraceId": "fd200432af0087fdabef22607607858a",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

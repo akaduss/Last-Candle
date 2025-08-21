@@ -1,0 +1,20 @@
+{
+    "asset": "3ad3e023437894cc7a57338bb491f567",
+    "fileName": "0198ccd6-d676-75e6-b8ee-83816b6c6f19.jpg",
+    "prompt": "simple progression bar frame, only the UI frame, ",
+    "negativePrompt": "",
+    "model": "81c7bc50-f1fa-4e43-96be-2baa3f6233b6",
+    "modelName": "UI Frame Generator",
+    "customSeed": -1,
+    "w3CTraceId": "38fb208e35cb5ce698ce8bd506cb10b3",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

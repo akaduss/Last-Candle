@@ -1,0 +1,20 @@
+{
+    "asset": "3ad3e023437894cc7a57338bb491f567",
+    "fileName": "0198ccb5-1f26-75d5-9908-c34fa778001c.jpg",
+    "prompt": "timer bar",
+    "negativePrompt": "",
+    "model": "feb545d0-614d-4cfb-a290-32d88fa443cd",
+    "modelName": "Game UI Elements (Flux)",
+    "customSeed": -1,
+    "w3CTraceId": "4fc442db21ed5e0324ecc2b9ee7db232",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
