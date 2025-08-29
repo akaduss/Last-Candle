@@ -109,8 +109,6 @@ public class Game : MonoBehaviour
 
     void OnDestroy()
     {
-        // OnDisable already unsubscribes; keep OnDestroy safe in case it is
-        // called without OnDisable.
         if (playAct != null)
             playAct.performed -= PlayAct_performed;
     }
