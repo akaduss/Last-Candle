@@ -63,7 +63,6 @@ public class CandleAnimator : MonoBehaviour
             pointLight.intensity = 0;
             pointLight.range = 0;
         }
-        print("CandleAnimator Update: " + curTime);
     }
 
 

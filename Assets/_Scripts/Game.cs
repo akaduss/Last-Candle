@@ -104,7 +104,6 @@ public class Game : MonoBehaviour
     void IncreaseLight()
     {
         Light++;
-        print(Light);
     }
 
     void OnDestroy()
